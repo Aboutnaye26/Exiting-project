@@ -4,4 +4,6 @@ pwd
 cd 
 mkdir
 ls -a
+rm
+cp
 
