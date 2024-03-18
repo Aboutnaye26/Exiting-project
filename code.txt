@@ -1,0 +1,7 @@
+These are some codes in linux
+ls
+pwd
+cd 
+mkdir
+ls -a
+
